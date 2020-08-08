@@ -1,0 +1,6 @@
+<!-- html is static so we use similar to html ejs to show database realted data
+ 
+
+ <h1>Hello <%= foo %></h1>
+
+-->
