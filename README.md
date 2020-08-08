@@ -1,2 +1,7 @@
 # REST-API-Server
-Full fledged REST API server using NodeJS and Express.
+
+This repo contains all the examples and exercises from the Introduction to NodeJS course.
+
+The self paced full fledged REST API server project using NodeJS and Express is also included in the folder project101.
+
+Node_modules are ignored, install node modules by - 
